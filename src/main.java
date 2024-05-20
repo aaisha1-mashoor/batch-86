@@ -5,6 +5,8 @@ public class main {
 
         System.out.println(obj1.helmet);
         obj1.fight();
+        //comment
+        //hi wanakam
 
     }
 }
